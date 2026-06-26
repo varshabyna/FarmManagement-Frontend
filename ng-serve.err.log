@@ -1,0 +1,242 @@
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Bindings cannot contain assignments at column 20 in [ countries.find(x => x.lookupReferenceId == landForm.value.countryId)?.name || 'Not selected' ] in C:\Users\varsh\UsersManagement\src\app\pages\land\land.html@362:14[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.html:363:14:
+[37m      363 │ ...  <strong>[32m{{ countries.find(x => x.lookupReferenceId == landFo[37m...
+          ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component Land.
+
+    src/app/pages/land/land.ts:32:15:
+[37m      32 │   templateUrl: [32m'./land.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2769: No overload matches this call.
+  Overload 1 of 2, '(predicate: (value: any, index: number, obj: any[]) => value is any, thisArg?: any): any', gave the following error.
+    Argument of type 'undefined' is not assignable to parameter of type '(value: any, index: number, obj: any[]) => value is any'.
+  Overload 2 of 2, '(predicate: (value: any, index: number, obj: any[]) => unknown, thisArg?: any): any', gave the following error.
+    Argument of type 'undefined' is not assignable to parameter of type '(value: any, index: number, obj: any[]) => unknown'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.html:363:32:
+[37m      363 │ ...ries.find([32mx => x.lookupReferenceId == landForm.value.countryId[37m...
+          ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component Land.
+
+    src/app/pages/land/land.ts:32:15:
+[37m      32 │   templateUrl: [32m'./land.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Bindings cannot contain assignments at column 17 in [ states.find(x => x.lookupReferenceId == landForm.value.stateId)?.name || 'Not selected' ] in C:\Users\varsh\UsersManagement\src\app\pages\land\land.html@366:14[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.html:367:14:
+[37m      367 │ ...  <strong>[32m{{ states.find(x => x.lookupReferenceId == landForm.[37m...
+          ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component Land.
+
+    src/app/pages/land/land.ts:32:15:
+[37m      32 │   templateUrl: [32m'./land.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2769: No overload matches this call.
+  Overload 1 of 2, '(predicate: (value: any, index: number, obj: any[]) => value is any, thisArg?: any): any', gave the following error.
+    Argument of type 'undefined' is not assignable to parameter of type '(value: any, index: number, obj: any[]) => value is any'.
+  Overload 2 of 2, '(predicate: (value: any, index: number, obj: any[]) => unknown, thisArg?: any): any', gave the following error.
+    Argument of type 'undefined' is not assignable to parameter of type '(value: any, index: number, obj: any[]) => unknown'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.html:367:29:
+[37m      367 │ ...ates.find([32mx => x.lookupReferenceId == landForm.value.stateId[37m)?...
+          ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component Land.
+
+    src/app/pages/land/land.ts:32:15:
+[37m      32 │   templateUrl: [32m'./land.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Bindings cannot contain assignments at column 19 in [ villages.find(x => x.lookupReferenceId == landForm.value.villageId)?.name || 'Not selected' ] in C:\Users\varsh\UsersManagement\src\app\pages\land\land.html@370:14[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.html:371:14:
+[37m      371 │ ...  <strong>[32m{{ villages.find(x => x.lookupReferenceId == landFor[37m...
+          ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component Land.
+
+    src/app/pages/land/land.ts:32:15:
+[37m      32 │   templateUrl: [32m'./land.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2769: No overload matches this call.
+  Overload 1 of 2, '(predicate: (value: any, index: number, obj: any[]) => value is any, thisArg?: any): any', gave the following error.
+    Argument of type 'undefined' is not assignable to parameter of type '(value: any, index: number, obj: any[]) => value is any'.
+  Overload 2 of 2, '(predicate: (value: any, index: number, obj: any[]) => unknown, thisArg?: any): any', gave the following error.
+    Argument of type 'undefined' is not assignable to parameter of type '(value: any, index: number, obj: any[]) => unknown'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.html:371:31:
+[37m      371 │ ...ages.find([32mx => x.lookupReferenceId == landForm.value.villageId[37m...
+          ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component Land.
+
+    src/app/pages/land/land.ts:32:15:
+[37m      32 │   templateUrl: [32m'./land.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Bindings cannot contain assignments at column 20 in [ countries.find(x => x.lookupReferenceId == landForm.value.countryId)?.name || 'Not selected' ] in C:\Users\varsh\UsersManagement\src\app\pages\land\land.html@362:14[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.html:363:14:
+[37m      363 │ ...  <strong>[32m{{ countries.find(x => x.lookupReferenceId == landFo[37m...
+          ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component Land.
+
+    src/app/pages/land/land.ts:32:15:
+[37m      32 │   templateUrl: [32m'./land.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2769: No overload matches this call.
+  Overload 1 of 2, '(predicate: (value: any, index: number, obj: any[]) => value is any, thisArg?: any): any', gave the following error.
+    Argument of type 'undefined' is not assignable to parameter of type '(value: any, index: number, obj: any[]) => value is any'.
+  Overload 2 of 2, '(predicate: (value: any, index: number, obj: any[]) => unknown, thisArg?: any): any', gave the following error.
+    Argument of type 'undefined' is not assignable to parameter of type '(value: any, index: number, obj: any[]) => unknown'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.html:363:32:
+[37m      363 │ ...ries.find([32mx => x.lookupReferenceId == landForm.value.countryId[37m...
+          ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component Land.
+
+    src/app/pages/land/land.ts:32:15:
+[37m      32 │   templateUrl: [32m'./land.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Bindings cannot contain assignments at column 17 in [ states.find(x => x.lookupReferenceId == landForm.value.stateId)?.name || 'Not selected' ] in C:\Users\varsh\UsersManagement\src\app\pages\land\land.html@366:14[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.html:367:14:
+[37m      367 │ ...  <strong>[32m{{ states.find(x => x.lookupReferenceId == landForm.[37m...
+          ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component Land.
+
+    src/app/pages/land/land.ts:32:15:
+[37m      32 │   templateUrl: [32m'./land.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2769: No overload matches this call.
+  Overload 1 of 2, '(predicate: (value: any, index: number, obj: any[]) => value is any, thisArg?: any): any', gave the following error.
+    Argument of type 'undefined' is not assignable to parameter of type '(value: any, index: number, obj: any[]) => value is any'.
+  Overload 2 of 2, '(predicate: (value: any, index: number, obj: any[]) => unknown, thisArg?: any): any', gave the following error.
+    Argument of type 'undefined' is not assignable to parameter of type '(value: any, index: number, obj: any[]) => unknown'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.html:367:29:
+[37m      367 │ ...ates.find([32mx => x.lookupReferenceId == landForm.value.stateId[37m)?...
+          ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component Land.
+
+    src/app/pages/land/land.ts:32:15:
+[37m      32 │   templateUrl: [32m'./land.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Bindings cannot contain assignments at column 19 in [ villages.find(x => x.lookupReferenceId == landForm.value.villageId)?.name || 'Not selected' ] in C:\Users\varsh\UsersManagement\src\app\pages\land\land.html@370:14[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.html:371:14:
+[37m      371 │ ...  <strong>[32m{{ villages.find(x => x.lookupReferenceId == landFor[37m...
+          ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component Land.
+
+    src/app/pages/land/land.ts:32:15:
+[37m      32 │   templateUrl: [32m'./land.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2769: No overload matches this call.
+  Overload 1 of 2, '(predicate: (value: any, index: number, obj: any[]) => value is any, thisArg?: any): any', gave the following error.
+    Argument of type 'undefined' is not assignable to parameter of type '(value: any, index: number, obj: any[]) => value is any'.
+  Overload 2 of 2, '(predicate: (value: any, index: number, obj: any[]) => unknown, thisArg?: any): any', gave the following error.
+    Argument of type 'undefined' is not assignable to parameter of type '(value: any, index: number, obj: any[]) => unknown'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.html:371:31:
+[37m      371 │ ...ages.find([32mx => x.lookupReferenceId == landForm.value.villageId[37m...
+          ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component Land.
+
+    src/app/pages/land/land.ts:32:15:
+[37m      32 │   templateUrl: [32m'./land.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG2008: Could not find stylesheet file './land.css'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.ts:33:14:
+[37m      33 │   styleUrls: [[32m'./land.css'[37m]
+         ╵               [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG2008: Could not find stylesheet file './land.css'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.ts:33:14:
+[37m      33 │   styleUrls: [[32m'./land.css'[37m]
+         ╵               [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG2008: Could not find stylesheet file './land.css'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.ts:33:14:
+[37m      33 │   styleUrls: [[32m'./land.css'[37m]
+         ╵               [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG2008: Could not find stylesheet file './land.css'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.ts:33:14:
+[37m      33 │   styleUrls: [[32m'./land.css'[37m]
+         ╵               [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG2008: Could not find stylesheet file './land.css'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.ts:33:14:
+[37m      33 │   styleUrls: [[32m'./land.css'[37m]
+         ╵               [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG2008: Could not find stylesheet file './land.css'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.ts:33:14:
+[37m      33 │   styleUrls: [[32m'./land.css'[37m]
+         ╵               [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG2008: Could not find stylesheet file './land.css'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/land/land.ts:33:14:
+[37m      33 │   styleUrls: [[32m'./land.css'[37m]
+         ╵               [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages/users/users.html:23:8:
+[37m      23 │         [32m[(ngModel)]="searchText"[37m
+         ╵         [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component Users.
+
+    src/app/pages/users/users.ts:23:15:
+[37m      23 │   templateUrl: [32m'./users.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~[0m
+
+[39m[22m
